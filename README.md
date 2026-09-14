@@ -1,8 +1,8 @@
-\# Teste do README
+\## Teste do README
 
-## Este repositório é apenas um teste de >> \*GIT\* <<
+\###Este repositório é apenas um teste de >> \*GIT\* <<
 
 
 
-\_Só isso mesmo\_
+\-Só isso mesmo-
 
